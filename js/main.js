@@ -17,7 +17,7 @@ var options = {
     appSecret: 'A30dKx+RR5EjmkdHom5lZcmECAAEu1hFsTTl0WlDp3yPnu80DOHSccEEdk5JEonu6A==',
     trackingInterval: 60,
     sensorPollingFrequency: 10,
-    packageId: "assignment",
+    packageId: "https://aishux.github.io/zighara/assignment",
 }
 
 $(document).ready(function () {
